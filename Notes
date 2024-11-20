@@ -1,0 +1,2 @@
+__init___ : initializes a newly created object of a Class. Basically a constructor.
+self: points to the current instance of a class. works as a "this" pointer.
