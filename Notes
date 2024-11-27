@@ -1,2 +1,6 @@
-__init___ : initializes a newly created object of a Class. Basically a constructor.
-self: points to the current instance of a class. works as a "this" pointer.
+*__init___ : initializes a newly created object of a Class. Basically a constructor.
+*self: points to the current instance of a class. works as a "this" pointer.
+*range function in looping: 3 types
+                      1. start:for i in range(100) ->prints numbers from 0 to 99
+                      2. start and stop: for i in range(10,21) ->prints numbers from 10 to 20
+                      3. start,stop and step: for i in range(10,21,2) -> prints numbers from 10 to 20 with a step value of 2
